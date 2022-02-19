@@ -1,0 +1,6 @@
+
+public class Box extends Shape{
+
+	static public double volumeBox;
+	
+}

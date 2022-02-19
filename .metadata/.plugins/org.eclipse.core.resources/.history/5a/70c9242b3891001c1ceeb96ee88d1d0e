@@ -1,0 +1,15 @@
+
+public class Sofr extends Shape {
+
+	private double radius;
+	
+	public double getRadius()
+	{
+		return radius;
+	}
+	
+	public void setVolume(double v)
+	{
+		volume = v;
+	}
+}

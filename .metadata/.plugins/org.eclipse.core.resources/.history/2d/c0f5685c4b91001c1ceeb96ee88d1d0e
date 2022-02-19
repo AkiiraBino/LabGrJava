@@ -1,0 +1,7 @@
+
+public class Pyramid extends Shape {
+
+	double height;
+	double S;
+	
+}

@@ -1,0 +1,20 @@
+
+public class Sofr extends Shape {
+
+	protected double radius;
+	private Cylinder cylinder = new Cylinder();
+	public double getRadius()
+	{
+		return radius;
+	}
+	
+	Sofr(double r)
+	{
+		radius = r;
+	}
+	Sofr(double r, double h)
+	{
+		radius = r;
+		cylinder.height = h;
+	}
+}

@@ -1,0 +1,9 @@
+
+public class Shape {
+	
+	static double volume;
+	static double getVolume()
+	{
+		return volume;
+	}
+}

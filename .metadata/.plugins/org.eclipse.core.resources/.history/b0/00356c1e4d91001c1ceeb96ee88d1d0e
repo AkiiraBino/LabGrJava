@@ -1,0 +1,10 @@
+
+public class main {
+
+	public static void main(String args[])
+	{
+		Ball ball = new Ball(2.0);
+		Box box = new Box();
+		box.
+	}
+}

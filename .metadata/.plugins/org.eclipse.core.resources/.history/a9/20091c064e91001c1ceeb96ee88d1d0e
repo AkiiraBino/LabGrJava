@@ -1,0 +1,10 @@
+
+public class Shape {
+	final public double PI = 3.14;
+	static protected double volume;
+	static double getVolume()
+	{
+		return volume;
+	}
+	
+}

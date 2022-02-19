@@ -1,0 +1,12 @@
+
+public class main {
+
+	public static void main(String args[])
+	{
+		Ball ball = new Ball(2.0);
+		Box box = new Box();
+		Shape shape = new Shape();
+		System.out.println(shape.getVolume());
+		box.setVolumeBox(shape);
+	}
+}

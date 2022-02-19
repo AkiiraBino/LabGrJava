@@ -1,0 +1,15 @@
+
+public class Sofr extends Shape {
+
+	protected double radius;
+	public double getRadius()
+	{
+		return radius;
+	}
+	
+	Sofr(double r)
+	{
+		radius = r;
+		volume = ()
+	}
+}
