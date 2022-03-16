@@ -1,15 +1,6 @@
 
-public class Sofr extends Shape {
+public abstract class Sofr extends Shape {
 
 	protected double radius;
-	public double getRadius()
-	{
-		return radius;
-	}
-	
-	Sofr(double r)
-	{
-		radius = r;
-		volume = (4 * PI * radius * radius * radius) / 3.0;
-	}
+	public abstract double getRadius();
 }

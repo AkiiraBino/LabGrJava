@@ -1,0 +1,9 @@
+
+public abstract class Sofr extends Shape {
+
+	protected double radius;
+	public double getRadius()
+	{
+		return radius;
+	}
+}

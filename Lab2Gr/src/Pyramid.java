@@ -9,4 +9,5 @@ public class Pyramid extends Shape {
 		S = s;
 		volume = S * height / 3;
 	}
+	
 }

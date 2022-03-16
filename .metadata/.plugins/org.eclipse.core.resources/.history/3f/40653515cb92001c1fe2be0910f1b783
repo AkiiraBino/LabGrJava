@@ -1,0 +1,21 @@
+
+public class main {
+
+	public static void main(String args[])
+	{
+		Ball shapeBall = new Ball(2.0);
+		Box box = new Box();
+		box.setVolumeBox(shapeBall);
+		Pyramid shapePyr = new Pyramid(15.0, 10.0);
+		box.setVolumeBox(shapePyr);
+		Cylinder shapeCyl = new Cylinder(2.0, 1.0);
+		box.setVolumeBox(shapeCyl);
+		Shape shapeBall2 = new Ball(4.0);
+		box.setVolumeBox(shapeBall2);
+		Shape shapeBall3 = new Ball(0.5);
+		Shape shapeBall4 = new Ball(0.3);
+		box.setVolumeBox(shapeBall3);
+		box.setVolumeBox(shapeBall4);
+
+	}
+}

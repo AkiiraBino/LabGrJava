@@ -1,0 +1,16 @@
+
+public class main {
+
+	public static void main(String args[])
+	{
+		Shape shape = new Ball(2.0);
+		Box box = new Box();
+		box.setVolumeBox(shape);
+		Pyramid shape2 = new Pyramid(15.0, 10.0);
+		box.setVolumeBox(shape);
+		Cylinder cylinder = new Cylinder(2.0, 1.0);
+		box.setVolumeBox(shape);
+		Ball ball2 = new Ball(4.0);
+		box.setVolumeBox(shape);
+	}
+}
