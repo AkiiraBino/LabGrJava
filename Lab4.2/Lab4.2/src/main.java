@@ -33,7 +33,7 @@ public class main {
 			System.out.println(dataMyClass.getLenght());
 		}
 		catch(DataException ex)
-		{
+		{	
 			System.out.println(ex.getMessage());
 			System.out.println(ex.getNum());
 		}
