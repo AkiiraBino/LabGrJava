@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Animal
+comment1.params=
+comment1.target=boolean\ TouchEdge()
+comment2.params=angle
+comment2.target=void\ turn(int)
+comment3.params=
+comment3.target=boolean\ Food()
+comment4.params=
+comment4.target=void\ move()
+comment5.params=clss
+comment5.target=boolean\ canSee(java.lang.Class)
+numComments=6
