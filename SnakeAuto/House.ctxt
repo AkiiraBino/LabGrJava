@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=House
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ House\ wants\ to\ do.\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=clss
+comment2.target=boolean\ canSee(java.lang.Class)
+comment3.params=clss
+comment3.target=void\ eat(java.lang.Class)
+comment4.params=
+comment4.target=void\ lookForCode()
+numComments=5
